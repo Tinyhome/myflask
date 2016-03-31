@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/index.py=utf-8
+encoding//src/v1/Access.py=utf-8
+encoding//src/v1/Cache.py=utf-8
+encoding//src/v1/db/DbHelper.py=utf-8
+encoding//src/v1/db/UserMapper.py=utf-8
+encoding//src/v1/token/tokenController.py=utf-8
+encoding//src/v1/user/userController.py=utf-8
