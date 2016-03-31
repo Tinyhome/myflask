@@ -29,7 +29,7 @@ def index(controller):    # 使用网址中路由中的两个参数,http://127.0
     getclass=getattr(m, controller+"Controller")  #获得类名
     method=getattr(getclass(), "do") #获取方法
     
-#     print request.method
+    print request.method
 #     print request.headers.get("version","v1")
     
     return method()
